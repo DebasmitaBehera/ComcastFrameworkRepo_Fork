@@ -14,7 +14,7 @@ public class DemoClass {
 		System.out.println("thank u sayanika and shalu");
 
 		
-		System.out.println("Created by shalu");
+		System.out.println("Created by debasmita");
 
 	}
 
